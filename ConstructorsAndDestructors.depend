@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511202252 source:c:\users\gustavo\documents\codeblocksprojects\constructorsanddestructors\main.cpp
+	<iostream>
+	"HAL.h"
+
+1511208862 c:\users\gustavo\documents\codeblocksprojects\constructorsanddestructors\include\hal.h
+
+1511208812 source:c:\users\gustavo\documents\codeblocksprojects\constructorsanddestructors\src\hal.cpp
+	"HAL.h"
+	<iostream>
+	<math.h>
+
